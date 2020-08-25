@@ -3,6 +3,7 @@ In how many ways can you do it?
 for example if N=2,C=5 and target=10 then number of ways of getting target as 10 from 2 decks is 1 way(5+5=10) so ans=1, there is no other way to get 10
 You may think 6+4=10 ,this is not possible beacuse range of variables is till 5 only(x1<=5 and x2<=5 and find how many ways such that x1+x2=10 like that)
 Take another example N=3,C=7,target=14->so here task is (x1<=7 and x2<=7 and x3<=7 and find how many ways such that x1+x2+x3=14)
+Find the number of ways
 */
 import java.util.*;
 public class dice_recursion {
