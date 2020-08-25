@@ -34,6 +34,7 @@ public class decode{
         }
         sb=sb.reverse();
         System.out.println(sb);
+        //decode the input successfully
         
     }
 }
