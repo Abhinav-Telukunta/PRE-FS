@@ -1,3 +1,11 @@
+/*Design a stack such that minimum element should be retrieved in O(1)
+Input consists of numbers 1,2,3,4 and 0
+1 ele stands for push ele into stack
+2 stands for pop
+3 stands for printing top element
+4 stands for minimum element fetching and printing
+0 stands for termination of program
+*/
 import java.util.*;
 public class stack_min{
     public static void main(String args[]){
