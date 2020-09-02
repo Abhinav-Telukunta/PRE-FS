@@ -1,3 +1,12 @@
+/*
+given an array arr which is initially sorted.
+It is rotated anticlockwise for some elements 
+A key is given to search in array using binary search
+example-arr-7 1 2 3 4 5 6
+key-5
+so answer is index of 5 in array which is=5
+if key is not present print -1
+*/
 import java.util.*;
 class search{
     public static void main(String args[]){
